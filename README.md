@@ -1,4 +1,4 @@
-# -SuNingYiGou-Website
+# SuNingYiGou-Website
 
 >- [预览地址：fengwei2002.github.io/SuNingYiGou-Website](https://fengwei2002.github.io/SuNingYiGou-Website/)  
 >- [GitHub源码：fengwei2002/SuNingYiGou-Website](https://github.com/fengwei2002/SuNingYiGou-Website)
@@ -9,7 +9,9 @@
 
 ## 关于
 
-大年初三看到这个电视剧，挺有意思的编剧思路，既然宁毅已经将“拼刀刀”等现代商品售卖方式带回了古代，那么拥有一个官网也是必不可少的（**苏-宁yi-购**）
+大年初三看到这个电视剧，挺有意思的编剧思路，既然宁毅已经将“拼刀刀”等现代商品售卖方式带回了古代，那么拥有一个官网也是必不可少的（**苏-宁yi-购**）  
+
+<img src="img/甚好.jpg">  
 
 ~~古代没有浏览设备等逻辑问题忽略，其实是移动端 web 开发案例哈哈哈哈哈~~
 
