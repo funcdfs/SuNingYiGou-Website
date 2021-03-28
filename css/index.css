@@ -1,0 +1,13 @@
+.input-group{
+    display: block !important;
+    width:400px !important;
+}
+.price{
+    height: 35px;
+}
+.price-left{
+    float:left;
+}
+.price-right{
+    float:right;
+}
